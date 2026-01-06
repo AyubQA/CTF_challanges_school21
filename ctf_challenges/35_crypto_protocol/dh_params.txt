@@ -1,0 +1,7 @@
+Diffie-Hellman Parameters:
+p = 23 (small prime for easy computation)
+g = 5 (generator)
+A = 8 (Alice's public value)
+B = 19 (Bob's public value)
+
+Your task: Compute shared secret K and decrypt flag: school21{pmnu78o2ge}

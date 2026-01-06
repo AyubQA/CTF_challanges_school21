@@ -1,0 +1,1 @@
+Static IV = same IV for all messages. This is a vulnerability!

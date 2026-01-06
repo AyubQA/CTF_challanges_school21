@@ -1,0 +1,4 @@
+#!/bin/bash
+# SUID binary that can read /root/flag.txt
+cat "root/flag.txt"
+

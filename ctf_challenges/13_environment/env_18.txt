@@ -1,0 +1,4 @@
+PATH=/usr/bin:/bin
+HOME=/home/user18
+USER=user18
+SHELL=/bin/bash

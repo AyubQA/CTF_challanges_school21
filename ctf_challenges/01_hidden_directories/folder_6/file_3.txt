@@ -1,0 +1,1 @@
+Content of file 3 in folder 6. Nothing special here.

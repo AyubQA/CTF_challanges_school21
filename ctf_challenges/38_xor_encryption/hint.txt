@@ -1,0 +1,1 @@
+XOR is reversible: plaintext XOR key = ciphertext, so ciphertext XOR key = plaintext
